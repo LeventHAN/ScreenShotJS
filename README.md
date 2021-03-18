@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="img/logo/ScreenShotJS (GER-SQUAD)-logo.png" alt="Logo" width="500"/>
+<img src="https://ger-squad.community/images/styleLogo-mobile-370c44e9b3f240ce666358e1e299707154cda826.png" alt="Logo" width="500"/>
 
 #### ScreenShotJS (GER-SQUAD)
-[![GitHub contributors](https://img.shields.io/github/contributors/11TStudio/ScreenShotJS (GER-SQUAD).svg?style=flat-square)](https://github.com/11TStudio/ScreenShotJS (GER-SQUAD)/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/license/11TStudio/ScreenShotJS (GER-SQUAD).svg?style=flat-square)](https://github.com/11TStudio/ScreenShotJS (GER-SQUAD)/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/11TStudio/ScreenShotJS.svg?style=flat-square)](https://github.com/11TStudio/ScreenShotJS/graphs/contributors)
+[![GitHub release](https://img.shields.io/github/license/11TStudio/ScreenShotJS.svg?style=flat-square)](https://github.com/11TStudio/ScreenShotJS/blob/master/LICENSE)
 
 <br>
 
-[![GitHub issues](https://img.shields.io/github/issues/11TStudio/ScreenShotJS (GER-SQUAD).svg?style=flat-square)](https://github.com/11TStudio/ScreenShotJS (GER-SQUAD)/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/11TStudio/ScreenShotJS (GER-SQUAD).svg?style=flat-square)](https://github.com/11TStudio/ScreenShotJS (GER-SQUAD)/pulls)
-[![GitHub issues](https://img.shields.io/github/stars/11TStudio/ScreenShotJS (GER-SQUAD).svg?style=flat-square)](https://github.com/11TStudio/ScreenShotJS (GER-SQUAD)/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/11TStudio/ScreenShotJS.svg?style=flat-square)](https://github.com/11TStudio/ScreenShotJS/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/11TStudio/ScreenShotJS.svg?style=flat-square)](https://github.com/11TStudio/ScreenShotJS/pulls)
+[![GitHub issues](https://img.shields.io/github/stars/11TStudio/ScreenShotJS.svg?style=flat-square)](https://github.com/11TStudio/ScreenShotJS/stargazers)
 
 
 
