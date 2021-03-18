@@ -73,7 +73,7 @@ author="©️ LeventHAN [https://github.com/11TStudio]"
 ```
  * `communityName` - Default For ger-squad.community
  * `screenShotTag` - Changes the tag name that the bots responds for searching stats of the players
- * `screenShotLeaderboardTag` - Changes the tag name that the bots responds for searching for specific clan stats of the players. `Usage example` -`!l TOP10 INF MONTH`
+ * `screenShotLeaderboardTag` - For leaderboard searches. `Usage example` -`!l TOP10 INF MONTH`
  * `prefix` - The symbol/letter that your bot will use, default is `!`.
  * `channelRestricted` - You can choose between `true` and `false`. `false`: Players can use the commands everywehere in the servr. `true`: Will check the channelID (see `statChannel`) and respond only for that room. It will promt an error if you use it elsewhere.
  * `statChannel` - The room/channelID that players can use the bot (only works if `channelRestricted=true`).
@@ -103,8 +103,8 @@ The following is a list of commands built into SquadJS, you can click their titl
 </details>
 <details>
       <summary>screenShotLeaderboardTag [!l | !leaderboard]</summary>
-      <h2>Search for specific clan's players statistics</h2>
-      <p>The <code>sclan</code> command usage is as following: 
+      <h2>Check Leaderboard Stats</h2>
+      <p>The <code>leaderboard</code> command usage is as following: 
       <pre><code>
       !leaderboard [TOP10/TOP20/TOP30] [INF/VEH] [ALL/MONTH/WEEK]
       // OR
