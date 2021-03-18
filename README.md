@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ger-squad.community/images/styleLogo-mobile-370c44e9b3f240ce666358e1e299707154cda826.png" alt="Logo" width="500"/>
+<img src="https://i.imgur.com/B1RjBvq.png" alt="Logo" width="500"/>
 
 #### ScreenShotJS (GER-SQUAD)
 [![GitHub contributors](https://img.shields.io/github/contributors/11TStudio/ScreenShotJS.svg?style=flat-square)](https://github.com/11TStudio/ScreenShotJS/graphs/contributors)
