@@ -1,0 +1,35 @@
+{
+  "name": "screenshotjs-ger-squad",
+  "version": "1.0.0",
+  "description": "Just an another discord bot that takes screenshots from websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/11TStudio/ScreenShotJS.git"
+  },
+  "keywords": [
+    "screenshot",
+    "discordjs",
+    "website",
+    "bot",
+    "discord"
+  ],
+  "author": "LeventHAN (aka 11TStudio)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/11TStudio/ScreenShotJS/issues"
+  },
+  "homepage": "https://github.com/11TStudio/ScreenShotJS#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "puppeteer": "^8.0.0"
+  }
+}
